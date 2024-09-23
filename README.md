@@ -53,10 +53,6 @@ Natalie Robbins (SARL)
 Junlin Guo (CS)
 [email](mailto:junlin.guo@vanderbilt.edu)
 
-Andrea Gutierrez (Anthropology)
-[email](mailto:andrea.gutierrez@vanderbilt.edu)
-
-
 ### Faculty sponsors:
 Steven Wernke (Anthropology)
 [email](mailto:s.wernke@vanderbilt.edu)
